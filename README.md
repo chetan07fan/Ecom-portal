@@ -36,27 +36,7 @@ This is a fully functional eCommerce web application built using the **MERN stac
 
 ## 📂 Project Structure
 
-MERN_Ecom_Site/
-├── client/ # React frontend (user UI + admin panel)
-│ ├── public/
-│ └── src/
-│ ├── components/
-│ ├── pages/
-│ ├── redux/
-│ └── App.js
-│
-├── server/ # Node.js backend (API + DB)
-│ ├── config/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── middleware/
-│ └── server.js
-│
-└── README.md # Project documentation
-
-
-Backend Setup (/server)
+#Backend Setup (/server)
 Open your terminal or VS Code.
 Navigate to the project directory:
 cd Ecom-portal
@@ -74,7 +54,7 @@ npm run dev
 
 
 
-💻 Frontend Setup (/client)
+#💻 Frontend Setup (/client)
 Open a new terminal tab/window.
 Navigate to the frontend folder:
 cd Ecom-portal/client
